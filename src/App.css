@@ -1,0 +1,17 @@
+body {
+  padding: 30px;
+}
+
+ul {
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+li.completed {
+  text-decoration: line-through;
+}
